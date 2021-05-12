@@ -14,7 +14,3 @@ countries.csv
 
 ### Credits
 Udacity Data Science Program
-# AB_test_project_final
-# AB_test_project_final
-# AB_test_project_final
-# AB_test_project_final
